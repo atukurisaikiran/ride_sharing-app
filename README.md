@@ -27,16 +27,17 @@ A frontend-only ride sharing mobile app built with **Flutter & Dart**, simulatin
 
 ## 🚀 How to Run
 
-1. Clone the repo git clone https://github.com/atukurisaikiran/ride-sharing-app
+1. Clone the repo git clone https://github.com/atukurisaikiran/ride_sharing-app/tree/main/flutter_z9au06xe9av0%20(1)
+   
 
-2. Navigate into the folder  
+3. Navigate into the folder  
 cd ride-sharing-app-prototype
 
 
-3. Install dependencies  
+4. Install dependencies  
 flutter pub get
 
-4. Run the app  
+5. Run the app  
 flutter run
 ---
 
