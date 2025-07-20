@@ -41,12 +41,6 @@ flutter pub get
 flutter run
 ---
 
-## 📸 Screenshots
-
-> *(Insert 2–3 screenshots of your UI in action here)*
-
----
-
 ## 📚 Learning Purpose
 
 This app is created as a prototype to:
